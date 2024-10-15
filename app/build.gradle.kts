@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.agnes.multimedia"
+    namespace = "com.nakato.multimedia"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.agnes.multimedia"
+        applicationId = "com.nakato.multimedia"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

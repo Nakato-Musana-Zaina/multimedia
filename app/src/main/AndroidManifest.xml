@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
     <application
-        android:name=".MyApp"
+        android:name="com.nakato.multimedia.MyApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -17,10 +17,10 @@
         android:theme="@style/Theme.Multimedia"
         tools:targetApi="31">
         <activity
-            android:name=".ui.PhotoCaptureActivity"
+            android:name="com.nakato.multimedia.ui.PhotoCaptureActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.LoginActivity"
+            android:name="com.nakato.multimedia.ui.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,10 +29,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.HomeActivity"
+            android:name="com.nakato.multimedia.ui.HomeActivity"
             android:exported="true"/>
         <activity
-            android:name=".ui.MainActivity"
+            android:name="com.nakato.multimedia.ui.MainActivity"
             android:exported="true" />
         <provider
             android:authorities="${applicationId}.provider"

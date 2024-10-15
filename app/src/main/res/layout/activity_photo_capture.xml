@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.PhotoCaptureActivity">
+    tools:context="com.nakato.multimedia.ui.PhotoCaptureActivity">
 
     <ImageView
         android:id="@+id/ivPhoto2"

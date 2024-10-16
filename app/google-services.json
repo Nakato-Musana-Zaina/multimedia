@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98328835617",
+    "project_id": "multimedia-e63e0",
+    "storage_bucket": "multimedia-e63e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98328835617:android:70d9e1c78c9586aaa6d560",
+        "android_client_info": {
+          "package_name": "com.nakato.multimedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOn8Uloop7n5qbXW2rdTo8YCnkog4cAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

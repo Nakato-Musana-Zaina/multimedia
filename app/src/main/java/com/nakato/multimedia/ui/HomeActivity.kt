@@ -3,8 +3,9 @@ package com.nakato.multimedia.ui
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import com.agnes.multimedia.R
-import com.agnes.multimedia.databinding.ActivityHomeBinding
+import com.nakato.multimedia.R
+import com.nakato.multimedia.databinding.ActivityHomeBinding
+
 //import com.nakato.multimedia.R
 //import com.nakato.multimedia.databinding.ActivityHomeBinding
 

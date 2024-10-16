@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.agnes.multimedia.databinding.ActivityLoginBinding
+import com.nakato.multimedia.databinding.ActivityLoginBinding
 //import com.nakato.multimedia.databinding.ActivityLoginBinding
 import com.nakato.multimedia.model.LoginRequest
 import com.nakato.multimedia.model.LoginResponse

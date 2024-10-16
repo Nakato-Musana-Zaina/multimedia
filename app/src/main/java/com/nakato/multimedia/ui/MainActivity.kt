@@ -8,8 +8,7 @@ import androidx.activity.result.PickVisualMediaRequest
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.agnes.multimedia.databinding.ActivityMainBinding
-//import com.nakato.multimedia.databinding.ActivityMainBinding
+import com.nakato.multimedia.databinding.ActivityMainBinding
 import com.nakato.multimedia.utils.Constants
 import com.nakato.multimedia.viewmodel.PhotosViewModel
 import com.squareup.picasso.Picasso

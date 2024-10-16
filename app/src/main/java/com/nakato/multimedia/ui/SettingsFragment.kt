@@ -8,8 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AlertDialog
-import com.agnes.multimedia.databinding.FragmentSettingsBinding
-//import com.nakato.multimedia.databinding.FragmentSettingsBinding
+import com.nakato.multimedia.databinding.FragmentSettingsBinding
 import com.nakato.multimedia.utils.Constants
 
 class SettingsFragment : Fragment() {

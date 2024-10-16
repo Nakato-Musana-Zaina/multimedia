@@ -5,8 +5,8 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.agnes.multimedia.R
-//import com.nakato.multimedia.R
+import com.nakato.multimedia.R
+
 
 class ProfileFragment : Fragment() {
 
